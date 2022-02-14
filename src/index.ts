@@ -1,4 +1,3 @@
-import { SmartButton } from './Smart/SmartButton'
-console.log("hello from Ts")
-SmartButton("SM")
-export * from './Smart/SmartButton'
+export * from './Avatar/index';
+export * from './Button/index';
+export * from './Input/index';
