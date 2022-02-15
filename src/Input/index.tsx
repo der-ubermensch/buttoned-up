@@ -50,4 +50,4 @@ const Input: FC<InputProps> = ({id, disabled, label, message, error, success, on
     )
 }
 
-export default Input;
+export { Input, StyledInput };

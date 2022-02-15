@@ -40,4 +40,4 @@ const Button: FC<ButtonProps> = ({size, primary, disabled, text, onClick, ...pro
     )
 }
 
-export default Button;
+export { Button, StyledButton };
