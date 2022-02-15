@@ -2,7 +2,7 @@
   "name": "buttoned-up",
   "version": "1.1.2",
   "description": "A simple component to provide your buttons",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "tsc",
     "dev": "npm run serve -- --mode=development --hot",
